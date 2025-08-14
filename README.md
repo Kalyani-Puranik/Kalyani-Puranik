@@ -1,5 +1,5 @@
 # 💫 About Me:
-📕1st Year Student at PES University, Electronic City Campus <br>📚Studying Computer Science (AIML)
+📕First Year Student at PES University, Electronic City Campus <br>📚Studying Computer Science (AIML)
 
 
 # 💻 Tech Stack:
